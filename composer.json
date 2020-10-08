@@ -1,0 +1,15 @@
+{
+    "name": "kelsonthony/mvc-php",
+    "authors": [
+        {
+            "name": "Kelson Anthony",
+            "email": "k.thony@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
